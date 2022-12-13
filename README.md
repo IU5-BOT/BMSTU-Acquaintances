@@ -1,5 +1,6 @@
 # BMSTU-Acquaintances.
-<img src="https://img.shields.io/github/license/DimaPermyakov/IU5?color=brightgreen" alt="MIT License"> <img src="https://img.shields.io/badge/language-Python-green.svg" alt="Python Language">
+<img src="https://img.shields.io/github/license/DimaPermyakov/IU5?color=brightgreen" alt="MIT License"> <img src="https://img.shields.io/badge/language-Python-blue.svg" alt="Python Language">
+[![\[Telegram\] aiogram live](https://img.shields.io/badge/telegram-aiogram-blue.svg?style=flat-square&logo=telegram)](https://t.me/aiogram_live)
 
 ## About bot:
 This bot has was been written on the aiogram module. All data storage in sql-tables.
